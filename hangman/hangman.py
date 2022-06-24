@@ -70,11 +70,11 @@ class Hangman:
                 exit()
         self.print_game_state()
 
-    def game_loop(self):
+    def game_loop(self) -> None:
         while True:
             self.make_guess()
 
-    def print_game_state(self):
+    def print_game_state(self) -> None:
         for i in self.found:
             print(f"{i}", end=" ")
         print("")
