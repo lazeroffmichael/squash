@@ -1,8 +1,5 @@
 # squash
 Truly random projects
 
-## hangman
-CLI Hangman in Python
-
-## rot
-Rotation cipher implementation in Python
+- **hangman**: CLI hangman in python
+- **rot**: Rotation cipher in python
