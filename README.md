@@ -1,0 +1,2 @@
+# squash
+Truly random projects
